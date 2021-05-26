@@ -1,0 +1,137 @@
+Compare evCompare with RDW
+
+EV: audi tron sportback 
+RDW: ['audi e-tron sportback 50' 'audi e-tron sportback 55']
+
+EV: bmw i3 
+RDW: ['bmw i i3' 'bmw i3' 'bmw i3 rex' 'bmw  i3']
+
+EV: bmw i3s 
+RDW: ['bmw i3s' 'bmw i i3s']
+
+EV: chevrolet bolt 
+RDW: ['chevrolet  bolt ev' 'chevrolet bolt ev' 'chevrolet  bolt'
+ 'chevrolet bolt']
+
+EV: chevrolet spark 
+RDW: ['chevrolet spark ev']
+
+EV: fiat 500e 
+RDW: ['fiat 500e' 'fiat  500e' 'fiat fait 500e']
+
+EV: ford focus 
+RDW: ['ford focus electric' 'ford-cng-technik focus electric' 'ford focus'
+ 'ford-cng-technik ford focus electric']
+
+EV: honda e 
+RDW: ['honda  e']
+
+EV: hyundai ioniq 
+RDW: ['hyundai ioniq' 'hyundai ioniq electric']
+
+EV: hyundai kona 
+RDW: ['hyundai kona' 'hyundai kona, kauai']
+
+EV: jaguar i-pace 
+RDW: ['jaguar i-pace' 'jaguar  i-pace' 'jaguar i-pace ev4000'
+ 'jaguar jaugar i-pace']
+
+EV: kia niro 
+RDW: ['kia niro']
+
+EV: kia soul 
+RDW: ['kia soul']
+
+EV: lexus ux 
+RDW: ['lexus  ux250h' 'lexus  ux300e']
+
+EV: mazda mx-30 
+RDW: ['mazda  mx-30' 'mazda mx-30']
+
+EV: mercedes eqc 
+RDW: ['mercedes-benz eqc 400 4matic']
+
+EV: mg zs 
+RDW: ['mg  zs ev' 'mg zs1']
+
+EV: mini cooper se 
+RDW: ['mini countryman cooper se all4' 'mini cooper se'
+ 'mini countryman cooper se']
+
+EV: mitsubishi i-mi 
+RDW: ['mitsubishi i-miev' 'mitsubishi  i-miev']
+
+EV: nissan leaf 
+RDW: ['nissan  leaf 40kwh' 'nissan  leaf' 'nissan  leaf 24kwh'
+ 'nissan  leaf 30kwh' 'nissan  leaf 40 kwh' 'nissan leaf'
+ 'nissan  leaf 62kwh']
+
+EV: nissan nv200 
+RDW: ['nissan  e-nv200' 'nissan  env200 pick-up' 'nissan  e-nv200 kipper'
+ 'nissan  env200' 'nissan e-nv200' 'nissan  nv200'
+ 'nissan  e-nv200 pick-up']
+
+EV: peugeot 2008 
+RDW: ['peugeot 2008']
+
+EV: peugeot 208 
+RDW: ['peugeot 208']
+
+EV: polestar 2 
+RDW: ['polestar 2']
+
+EV: porsche taycan 
+RDW: ['porsche taycan 4s' 'porsche taycan turbo s' 'porsche taycan turbo']
+
+EV: renault fluence z.e. 
+RDW: ['renault fluence z.e.']
+
+EV: renault zoe 
+RDW: ['renault zoe']
+
+EV: seat mii 
+RDW: ['seat mii']
+
+EV: smart drive 
+RDW: ['smart electric drive' 'smart brabus electric drive'
+ 'smart fortwo electric drive']
+
+EV: smart eq 
+RDW: ['smart eq fortwo coupe' 'smart eq forfour' 'smart eq fortwo cabrio']
+
+EV: tesla model 3 
+RDW: ['tesla model 3' 'tesla motors model 3' 'tesla motors tesla model 3'
+ 'tesla  model 3']
+
+EV: tesla model s 
+RDW: ['tesla model s' 'tesla motors model s' 'tesla  model s'
+ 'tesla motors model s 90 d' 'tesla model s 85d' 'tesla model s 85'
+ 'tesla model s performance' 'tesla motors model s p85'
+ 'tesla motors model s p85+' 'tesla model s performance+'
+ 'tesla model s 85 p' 'tesla model s 70']
+
+EV: tesla model x 
+RDW: ['tesla model x' 'tesla motors model x' 'tesla motors model x p90d'
+ 'tesla motors model x 90d']
+
+EV: tesla model y 
+RDW: ['tesla motors model y']
+
+EV: tesla roadster 
+RDW: ['tesla roadster' 'tesla  roadster' 'tesla roadster sport'
+ 'tesla roadster 1.5']
+
+EV: think city 
+RDW: ['think th!nk city' 'think  th!nk city' 'think city']
+
+EV: volkswagen golf 
+RDW: ['volkswagen golf' 'volkswagen e-golf' 'volkswagen golf e'
+ 'volkswagen e golf' 'volkswagen golf city stromer' 'volkswagen golf gte']
+
+EV: volkswagen id.3 
+RDW: ['volkswagen id.3 pro 150 kw' 'volkswagen id.3 pro 150kw']
+
+EV: volkswagen up! 
+RDW: ['volkswagen up!']
+
+Total amount of car versions: (109,)

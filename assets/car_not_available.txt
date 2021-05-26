@@ -1,0 +1,530 @@
+Cars in the RDW dataset, but not in EVCompare
+
+agv: 
+['agv tgl - e' 'agv tgl e'] 
+
+aiways: 
+['aiways u5'] 
+
+alke: 
+['alke xt320e' 'alke xt320el' 'alke xt420e' 'alke atx'] 
+
+audi: 
+['audi  e-tron' 'audi q8' 'audi a6 limousine' 'audi a5 cabriolet'
+ 'audi a3 sportback e-tron' 'audi q3' 'audi a4 avant' 'audi a5 sportback'
+ 'audi a8 l' 'audi rs 6 avant' 'audi rs q8' 'audi a8' 'audi a6 avant'
+ 'audi a7 sportback' 'audi a4 limousine' 'audi q7 e-tron' 'audi a8 hybrid'
+ 'audi a3 e-tron' 'audi a6 limousine hybrid' 'audi  a2' 'audi  q5 hybrid'
+ 'audi q7 60 tfsi e' 'audi a3 40 e-tron' 'audi q5 55 tfsi e' 'audi q5'
+ 'audi a6 55 tfsi e' 'audi q5 50 tfsi e' 'audi e-tron 55' 'audi e-tron 50'
+ 'audi q7 55 tfsi e' nan 'audi e-tron 55 qu' 'audi q7' 'audi a5 coupé'
+ 'audi a4 allroad quattro' 'audi sq8' 'audi sq5' 'audi a6 allroad quattro'
+ 'audi s6 avant' 'audi s6 limousine' 'audi q3 sportback' 'audi a5 coupe'
+ 'audi s7 sportback' 'audi s8' 'audi rs 7 sportback' 'audi a7 55 tfsi e'
+ 'audi a6 50 tfsi e' 'audi a7 50 tfsi e' 'audi a8 60 tfsi e'
+ 'audi a6 avant 55 tfsi e' 'audi e-tron' 'audi e-tron s'
+ 'audi e-tron s sportback'] 
+
+austin: 
+['austin mini'] 
+
+azure dynamics: 
+['azure dynamics transit connect electric'] 
+
+baker electric: 
+['baker electric roadstar' 'baker electric a'] 
+
+bd: 
+['bd e-ducato'] 
+
+bentley: 
+['bentley bentayga hybrid'] 
+
+bmw: 
+['bmw activehybrid 7er reihe' 'bmw x5 xdrive40e' 'bmw 530e iperf'
+ 'bmw x series' 'bmw 330e' 'bmw z reihe' 'bmw 5er reihe'
+ 'bmw 740e iperformance' 'bmw activehybrid 3' 'bmw activehybrid 7'
+ 'bmw 530e iperformance' 'bmw activehybrid 5' 'bmw 225xe active tourer'
+ 'bmw 225xe iperformance' 'bmw 745le xdrive' 'bmw x5 xdrive45e'
+ 'bmw 330e iperformance' 'bmw 530e xdrive iperformance' 'bmw 745e'
+ 'bmw 740le iperformance' 'bmw 745le' 'bmw x5 xdrive40e iperformance'
+ 'bmw x3 xdrive30e' 'bmw 740le xdrive iperformance' 'bmw i 3'
+ 'bmw x1 xdrive25e' 'bmw serie x' 'bmw 7 series' 'bmw 530e'
+ 'bmw 330e xdrive' 'bmw x2 xdrive25e' 'bmw 2 series'
+ 'bmw 225xe iperformance active touerer' 'bmw x5' 'bmw 530e xdrive'
+ 'bmw 5 series'] 
+
+bmw i: 
+['bmw i i8' 'bmw i i reihe' 'bmw i serie 1' 'bmw i i series'] 
+
+byd: 
+['byd e6' 'byd  e6' 'byd  e6h' 'byd ev6-eco' 'byd e6y' 'byd  e6y'
+ 'byd etp3'] 
+
+cargolev: 
+['cargolev  tc'] 
+
+cecomp: 
+['cecomp bluecar'] 
+
+chevrolet: 
+['chevrolet volt' 'chevrolet metro' 'chevrolet  malibu hybride'
+ 'chevrolet malibu hybride' 'chevrolet tahoe hybride'
+ 'chevrolet tahoe hybrid'] 
+
+chrysler: 
+['chrysler pacifica hybrid limited' 'chrysler  pacifica hyb.ltd'
+ 'chrysler 500e' 'chrysler pacifica hybrid'
+ 'chrysler pacifica hybrid ltd.' 'chrysler pacifica  hybrid'
+ 'chrysler pacifica' 'chrysler  pacifica' 'chrysler pacifca'
+ 'chrysler  pacifica hybrid'] 
+
+citroen: 
+['citroen 2 cv 6 club' 'citroen berlingo' 'citroen c-zero' 'citroen 2cve'
+ 'citroen c4 picasso' 'citroen ds5' 'citroen e-mehari' 'citroen d special'
+ 'citroen  c1' 'citroen saxo' 'citroen berlingo electrique' 'citroen az'
+ 'citroen ds 21 pallas' 'citroen 2cv6' 'citroen ds 21' 'citroen ak'
+ 'citroen berlingo 500e electrique' 'citroen evc j10 electric ii'
+ 'citroen hy' 'citroen berlingo venturi' 'citroen  berlingo' 'citroen c5'
+ 'citroen acadiane' 'citroen 2cv' 'citroen h78 hy78' 'citroen ak b'
+ 'citroen dyane 6' 'citroen c5 aircross' 'citroen jumpy' 'citroen mehari'
+ 'citroen jumpy spacetourer' 'citroen e-c4'] 
+
+columbia: 
+['columbia electric runabout'] 
+
+daf: 
+['daf ete 9' 'daf fan cf electric' 'daf hytruck c18e' 'daf ft cf electric'
+ 'daf cf 410 ft' 'daf ev 33' 'daf emoss 1212' 'daf fan cf75' 'daf ete11'
+ 'daf xf 440 ft' 'daf fa lf45g08-hybride' 'daf ete 7' 'daf ete 8'] 
+
+daihatsu: 
+['daihatsu sirion' 'daihatsu electro cuore' 'daihatsu hijet 1000 van'] 
+
+dfsk: 
+['dfsk k01h' 'dfsk k01h electric'] 
+
+dodge: 
+['dodge  ram 1500'] 
+
+dongfeng: 
+['dongfeng mini truck' 'dongfeng mini cargo elektro'] 
+
+ds: 
+['ds 5' 'ds  3 crossback' 'ds 3 crossback' 'ds  7 crossback'] 
+
+e go: 
+['e go e.go life first edition'] 
+
+e-trucks europe: 
+['e-trucks europe cf  fag'] 
+
+ecocraft: 
+['ecocraft carrier'] 
+
+emoss: 
+['emoss 1820' 'emoss 1413' 'emoss 4428' 'emoss 712' 'emoss 2828'
+ 'emoss cf 300 fan' 'emoss 1928' 'emoss 2728' 'emoss 1420' 'emoss 1230'
+ 'emoss 1412' 'emoss 1213' 'emoss 1920' 'emoss 1824' 'emoss 340'
+ 'emoss 2824' 'emoss 1212' 'emoss 1812' 'emoss 470' 'emoss  5012 e.v.e.r'
+ 'emoss 2620' 'emoss cm 1920' 'emoss 2028' 'emoss 5028'] 
+
+esagono energia s.r.l.: 
+['esagono energia s.r.l. grifo' 'esagono energia s.r.l. gastone'
+ 'esagono energia s.r.l. golia'] 
+
+evobus: 
+['evobus cito 0520'] 
+
+fiat: 
+['fiat 500 e' 'fiat panda elettra' 'fiat 500' 'fiat doblo' 'fiat 500l'
+ 'fiat  doblo cargo' 'fiat fca (mex)' 'fiat  panda' 'fiat ducato'
+ 'fiat scudo' 'fiat 600l' 'fiat ducato combinato' 'fiat  500 e'
+ 'fiat 500 electric' 'fiat  doblo' 'fiat 500 carbonara'] 
+
+fisker: 
+['fisker karma'] 
+
+ford: 
+['ford fiesta' 'ford fusion hybrid' 'ford transit connect'
+ 'ford transit 300 s kombi ambiente e' 'ford 460 ef cc'
+ 'ford transit/tourneo' 'ford fusion energi' 'ford  c-max hybrid sel'
+ 'ford transit 300s kombi ambiente e' 'ford escape-hybride' 'ford escape'
+ 'ford  escape hybrid' 'ford c-max energi' 'ford escape hybride'
+ 'ford transit' 'ford escape - hybride' 'ford fusion' 'ford escape hybrid'
+ 'ford c max' 'ford kuga' 'ford transit custom' 'ford explorer'
+ 'ford tourneo custom' 'ford mustang'] 
+
+ford-cng-technik: 
+['ford-cng-technik mondeo hybrid' 'ford-cng-technik c-max energi'] 
+
+framo: 
+['framo e400/400 4x2 bls' 'framo e180/280 4x2 bls' 'framo tgs'] 
+
+fuso: 
+['fuso ecanter' 'fuso canter'] 
+
+ginaf: 
+['ginaf e 3123' 'ginaf e 2121' 'ginaf e2114' 'ginaf hytruck s 2116'
+ 'ginaf dt 2112 m' 'ginaf e 2114'] 
+
+goupil: 
+['goupil g4' 'goupil g5' 'goupil g4l' 'goupil g3' 'goupil g6'] 
+
+han: 
+['han euro rally colt'] 
+
+helem (univers ve helem): 
+['helem (univers ve helem) colibus'] 
+
+hodgep: 
+['hodgep pinguin 4 e-mobil'] 
+
+honda: 
+['honda cr-z' 'honda jazz hybrid' 'honda civic 4dr hybrid' 'honda cr-v'
+ 'honda insight' 'honda civic 4dr' 'honda civic 4dr (hybrid)' 'honda hr-v'
+ 'honda civic hybird' 'honda civic' 'honda civic hybrid'] 
+
+hytruck: 
+['hytruck  c12e' 'hytruck  c18e' 'hytruck c16e' 'hytruck  c16e'] 
+
+hyundai: 
+['hyundai tucson' 'hyundai ix35' 'hyundai ix35 fcev' 'hyundai nexo'
+ 'hyundai tucson fuel cell'] 
+
+infiniti: 
+['infiniti  m' 'infiniti  q70'] 
+
+iveco: 
+['iveco 50c15 electric' 'iveco 70c15' 'iveco emoss 812'
+ 'iveco 70c21 hybrid' 'iveco 35s/e' 'iveco 75c21 hybrid'
+ 'iveco 75c17 hybrid' 'iveco 75c15 hybrid' 'iveco 70c21'
+ 'iveco 70c15 hybrid' 'iveco 75 c15hybrid' 'iveco 40c17d/t euro v hd eev'] 
+
+jac: 
+['jac iev7s'] 
+
+jaguar: 
+['jaguar xk8' 'jaguar xj6-l' 'jaguar xj s he'] 
+
+jaguar cars: 
+['jaguar cars ekolectric'] 
+
+jaguar land rover: 
+['jaguar land rover range rover'] 
+
+jeep: 
+['jeep cj 5' 'jeep compass' 'jeep renegade'] 
+
+jingdezhen changhe: 
+['jingdezhen changhe coolcar elektro' 'jingdezhen changhe freedom elektro'] 
+
+kewet: 
+['kewet el jet' 'kewet el jet 3'] 
+
+kia: 
+['kia optima' 'kia ceed' 'kia xceed'] 
+
+land rover: 
+['land rover plower ev 110' 'land rover range rover sport'
+ 'land rover range rover' 'land rover 109'
+ 'land rover 88 11 2 1/4 metal top' 'land rover range rover evoque'
+ 'land rover discovery sport' 'land rover 90 hard top'] 
+
+levc: 
+['levc tx'] 
+
+lexus: 
+['lexus  nx300h' 'lexus rx 400h' 'lexus  ct200h' 'lexus  rx450h'
+ 'lexus nx 300h' 'lexus  rx400h' 'lexus  gs450h' 'lexus  is300h'
+ 'lexus  gs300h' 'lexus  rx450hl' 'lexus  ls600h' 'lexus  ls600hl'
+ 'lexus rx 400h awd' 'lexus rx 400 h' 'lexus rx400' 'lexus rx450h'
+ 'lexus rx400h' 'lexus rx400 h cvt' 'lexus ct 200h' 'lexus rx450'
+ 'lexus rx 450 h' 'lexus ct 200' 'lexus rx400h hxu3' 'lexus rx4'
+ 'lexus rx400h hybride' 'lexus rx 400'] 
+
+ligier: 
+['ligier ez10'] 
+
+lotus: 
+['lotus elise s' 'lotus elise 111 r'] 
+
+man: 
+['man tge' 'man tgl - e' 'man  tgl 8-electric' 'man tgm 26.360 e'] 
+
+matra: 
+['matra talbot murena 2.2'] 
+
+maxus: 
+['maxus ev80' 'maxus  v80' 'maxus  ev80' 'maxus v80' 'maxus   edeliver3'] 
+
+mazda: 
+['mazda  cx-30' 'mazda 3'] 
+
+mega: 
+['mega rnh9' 'mega m10'] 
+
+mercedes-amg: 
+['mercedes-amg amg gt 43 4matic+'] 
+
+mercedes-benz: 
+['mercedes-benz e 300 bluetec hybrid' 'mercedes-benz b 250 e'
+ 'mercedes-benz evito' 'mercedes-benz c 200' 'mercedes-benz 280ev'
+ 'mercedes-benz s 400 hybrid' 'mercedes-benz electric drive'
+ 'mercedes-benz e 350 e' 'mercedes-benz c 350 e'
+ 'mercedes-benz s 500 plug in hybrid'
+ 'mercedes-benz 250 gd stationwagen kort' 'mercedes-benz glc 350 e 4matic'
+ 'mercedes-benz b' 'mercedes-benz c 300 bluetec hybrid'
+ 'mercedes-benz s 300 h' 'mercedes-benz 711 d' 'mercedes-benz 711'
+ 'mercedes-benz c 300 h' 'mercedes-benz sprinter'
+ 'mercedes-benz s 300 bluetec hybrid' 'mercedes-benz s 560 e'
+ 'mercedes-benz s 500 e' 'mercedes-benz 450 slc'
+ 'mercedes-benz cls 450 4matic' 'mercedes-benz e 300 cdi hybrid'
+ 'mercedes-benz s 450 4matic' 'mercedes-benz gle 500 e 4matic'
+ 'mercedes-benz amg e 53 4matic' 'mercedes-benz atego'
+ 'mercedes-benz glc 300 4matic' 'mercedes-benz c 200 4matic'
+ 'mercedes-benz e 300 e' 'mercedes-benz glc 200' 'mercedes-benz e 300 de'
+ 'mercedes-benz e-class' 'mercedes-benz c 300 de' 'mercedes-benz e-klasse'
+ 'mercedes-benz c 300 e' 'mercedes-benz glc 200 4matic'
+ 'mercedes-benz e 350' 'mercedes-benz evito tourer'
+ 'mercedes-benz c-klasse' 'mercedes-benz glc 300 e 4matic'
+ 'mercedes-benz s400 hybride' 'mercedes-benz gle 350 de 4matic'
+ 'mercedes-benz gle 450 4matic' 'mercedes-benz amg gle 53 4matic+'
+ 'mercedes-benz s 500' 'mercedes-benz s 450'
+ 'mercedes-benz gle 450 4 matic' 'mercedes-benz e 200'
+ 'mercedes-benz a 250 e' 'mercedes-benz e-actros'
+ 'mercedes-benz cla 250 e' 'mercedes-benz esprinter' 'mercedes-benz eqv'
+ 'mercedes-benz gla 250 e' 'mercedes-benz glc 350e hybrid 4 matic'
+ 'mercedes-benz e 300 e 4matic' 'mercedes-benz glc 300 de 4matic'] 
+
+mercury: 
+['mercury mariner hybrid'] 
+
+mg: 
+['mg midget mk iii' 'mg b gt'] 
+
+mia: 
+[nan 'mia ve79'] 
+
+micro compact car smart: 
+['micro compact car smart smart'] 
+
+micro-vett: 
+['micro-vett fiorino elettrico' 'micro-vett edyone' 'micro-vett qubo'] 
+
+microcar: 
+['microcar gmp 20u'] 
+
+mini: 
+[nan 'mini electric'] 
+
+mitsubishi: 
+['mitsubishi  outlander' 'mitsubishi canter'] 
+
+mk: 
+['mk indy'] 
+
+mk indy: 
+['mk indy sports'] 
+
+mk sportscars: 
+['mk sportscars mk indy r'] 
+
+modec: 
+['modec dropside'] 
+
+modec limited: 
+[nan] 
+
+morris: 
+['morris minor traveller' 'morris   mini 850'] 
+
+mw motors sro: 
+['mw motors sro luka ev'] 
+
+nissan: 
+['nissan electrique visia' 'nissan  ums' 'nissan altima'] 
+
+opel: 
+['opel ampera-e' 'opel vivaro-b' 'opel ampera'
+ 'opel vivaro-b elektroblitz' 'opel ampera e' 'opel agila'
+ 'opel grandland x' 'opel corsa' 'opel vivaro' 'opel vivaro / zafira life'] 
+
+panhard: 
+['panhard 24ct'] 
+
+peugeot: 
+['peugeot partner' 'peugeot ion' 'peugeot 508' 'peugeot expert traveller'
+ 'peugeot 3008' 'peugeot 308' 'peugeot 106' 'peugeot 5hzab0'
+ 'peugeot 106 electric' 'peugeot partner venturi' 'peugeot 1szaa0'
+ 'peugeot partner electrique' 'peugeot 404 familiale' 'peugeot 5008'
+ 'peugeot 106 xn' 'peugeot 205' 'peugeot partner electric'
+ 'peugeot 508 rxh' 'peugeot 3008 - 5008' 'peugeot 106 elektro'
+ 'peugeot expert'] 
+
+piaggio: 
+['piaggio porter electric' 'piaggio s85lp' 'piaggio porter'] 
+
+pininfarina: 
+['pininfarina spider ds'] 
+
+polestar: 
+['polestar 1'] 
+
+pope-waverley: 
+['pope-waverley model 21'] 
+
+porsche: 
+['porsche 911 carrera 2' 'porsche 912' 'porsche cayenne s e-hybrid'
+ 'porsche cayenne s hybrid' 'porsche panamera turbo s e-hybrid'
+ 'porsche panamera s e-hybrid' 'porsche cayenne e-hybrid'
+ 'porsche panamera 4 e-hybrid' 'porsche panamera s hybrid'
+ 'porsche 918 spyder' 'porsche cayenne turbo s e-hybrid'
+ 'porsche panamera' 'porsche cayenne' 'porsche panamera 4s e-hybrid'
+ 'porsche cayenne hybrid s'] 
+
+ram: 
+['ram 1500'] 
+
+renault: 
+['renault kangoo express z.e' 'renault master z.e.' 'renault 4 tl'
+ 'renault kangoo express z.e.' 'renault master z.e'
+ 'renault kangoo electrique range extender van'
+ 'renault express electro 2' 'renault kangoo electrique'
+ 'renault kangoo z.e' 'renault  kangoo' 'renault 0'
+ 'renault kangoo electri cite' 'renault kangoo express z.e. kipper'
+ 'renault kangoo express ze kipper' 'renault captur e-tech plug-in hybrid'
+ 'renault megane e-tech plug-in hybrid'
+ 'renault captur (e-tech plug-in hybrid)' 'renault twingo'] 
+
+saab: 
+['saab sonett iii utenpolle'] 
+
+scania: 
+['scania g320' 'scania r 500 cb 6x2 hnz' 'scania g360'] 
+
+seat: 
+['seat leon' 'seat cupra leon sportstourer'] 
+
+skoda: 
+['skoda citigo' 'skoda superb' 'skoda octavia'] 
+
+smart: 
+['smart forfour ed' 'smart fortwo coupe ed' 'smart  fortwo'
+ 'smart fortwo cabrio ed' 'smart  for two coupe' 'smart  roadster' nan] 
+
+smith: 
+['smith newton'] 
+
+smith's electric: 
+["smith's electric edison" "smith's electric d100l"
+ "smith's electric d 100 l" "smith's electric fad6"
+ "smith's electric d 100l" "smith's electric d 120 s newton"
+ "smith's electric newton"] 
+
+spierings: 
+['spierings sk487-at3'] 
+
+streetscooter: 
+['streetscooter work l' 'streetscooter work' 'streetscooter b14 post'
+ 'streetscooter  work+' 'streetscooter  work' 'streetscooter work l d16a'
+ 'streetscooter work  l' 'streetscooter work-l' 'streetscooter workl'] 
+
+suzuki: 
+['suzuki swift' 'suzuki samurai van' 'suzuki ignis' 'suzuki baleno'
+ 'suzuki vitara' 'suzuki  across'] 
+
+tesla: 
+['tesla  raodster' 'tesla x90x' 'tesla type 001' 'tesla s 75 d'] 
+
+the london taxi company: 
+['the london taxi company e-tx4' 'the london taxi company tx4'] 
+
+think: 
+['think piv 4' 'think  piv4' nan] 
+
+toyota: 
+['toyota  prius' 'toyota  yaris hybrid' 'toyota  c-hr' 'toyota  auris'
+ 'toyota  prius plus' 'toyota mirai' 'toyota  corolla'
+ 'toyota rav4 hybrid' 'toyota  rav4' 'toyota  prius plug-in hybrid'
+ 'toyota rav4' 'toyota prius advance' 'toyota  mirai' 'toyota rav 4'
+ 'toyota prius' 'toyota highlander' 'toyota rav 4h' 'toyota landcruiser'
+ 'toyota rav4 ev' 'toyota prius plus' 'toyota camry' 'toyota prius wagon'
+ 'toyota  prius phv' 'toyota yaris' 'toyota highlander hybride'
+ 'toyota camry hybride' 'toyota prius hybride aut' 'toyota auris'
+ 'toyota  camry hybride' 'toyota high lander hybride'
+ 'toyota camry hybrid' 'toyota prius v' 'toyota high lander'
+ 'toyota camry-hybrid' 'toyota c-hr' 'toyota cambry-hybrid'
+ 'toyota rx 400h' 'toyota  camry' 'toyota prius hybrid'
+ 'toyota highlander hybrid' 'toyota proace'] 
+
+trabant: 
+['trabant 601k'] 
+
+trens solar trains: 
+['trens solar trains solar road train tractor'] 
+
+van blitterswijk: 
+['van blitterswijk g4 eco- mobiliteit'
+ 'van blitterswijk g4 eco-mobiliteit'] 
+
+vauxhall: 
+['vauxhall ampera'] 
+
+vdl: 
+['vdl e-truck'] 
+
+veicoli: 
+['veicoli e-fiorino' 'veicoli e-scudo'] 
+
+volkswagen: 
+['volkswagen kever ev' 'volkswagen up' 'volkswagen touareg'
+ 'volkswagen vw kombi' 'volkswagen crafter' 'volkswagen transporter'
+ 'volkswagen jetta' 'volkswagen emoss e-crafter' 'volkswagen passat'
+ 'volkswagen touareg 3.0 hybrid' 'volkswagen 135221' 'volkswagen 135031'
+ 'volkswagen polo' 'volkswagen xl1' 'volkswagen new beetle'
+ 'volkswagen kever' 'volkswagen e-up elektromotor 82 hk' 'volkswagen lupo'
+ 'volkswagen caddy' 'volkswagen 221223' 'volkswagen 15 cabriolet'
+ 'volkswagen new beetle cabriolet' 'volkswagen 113021' 'volkswagen 22-Jan'
+ 'volkswagen type3' 'volkswagen 111121' 'volkswagen vw2'
+ 'volkswagen 111011' 'volkswagen kombi' 'volkswagen 1303'
+ 'volkswagen ft bonito' 'volkswagen 117031'
+ 'volkswagen bestel 1,0 d 45 kw' 'volkswagen hybrid carlab'
+ 'volkswagen schilder electric t2' 'volkswagen city stromer'] 
+
+volta: 
+['volta van 1'] 
+
+volvo: 
+['volvo xc60 t8 twin engine' 'volvo xc90 t8 twin engine'
+ 'volvo v60 twin engine' 'volvo xc90' 'volvo v60 plug in hybrid'
+ 'volvo xc90 t8' 'volvo s90 t8 twin engine' 'volvo v90 t8 twin engine'
+ 'volvo v50' 'volvo 240' 'volvo 240 gl' 'volvo 850 t5 r 2.3' 'volvo s90'
+ 'volvo v60' 'volvo v60 plug hybrid' 'volvo xc40 t5 twin engine'
+ 'volvo v60 t8 twin engine' 'volvo v60 t6 twin engine'
+ 'volvo s60 t8 twin engine' 'volvo s60 t6 twin engine' 'volvo xc60'
+ 'volvo xc90 excellence' 'volvo xc60 t8 awd' 'volvo fe 62r hybrid'
+ 'volvo fe 42r hybrid' 'volvo fe' 'volvo s90 excellence'
+ 'volvo fe 6x2 hybrid' 'volvo xc40' 'volvo v90'
+ 'volvo v 60 t8 twin engine' 'volvo s 60 t8 twin engine' 'volvo s60'
+ 'volvo fl'] 
+
+waverley: 
+['waverley electric road wagon'] 
+
+yugo: 
+['yugo mtc surya electric two seater'] 
+
+zaz-pinguin: 
+['zaz-pinguin pinguin 8 tavria'] 
+
+zelfbouw: 
+['zelfbouw burton electric' 'zelfbouw stella vie' 'zelfbouw hr gt zero'] 
+
+zie bijzonderheden: 
+['zie bijzonderheden wil 202' 'zie bijzonderheden z10'] 
+
+zotye: 
+['zotye 5008 ev'] 
+
+Total amount of ev and hybrid car versions missed: (715,)
